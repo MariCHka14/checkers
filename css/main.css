@@ -1,0 +1,119 @@
+body{
+	background-color: #d4d1de;
+    margin: 0;
+}
+.place{
+	height: 690px;
+	width: 690px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+img{
+	width: 56px;
+	height: 56px;
+	border-radius: 50%;
+	padding: 7px;
+}
+
+li{
+	width: 70px;
+	height: 70px;
+	background: #8a84a1;
+	border: 1px solid transparent;
+	list-style: none;
+	border-radius: 1px;
+}
+
+li:hover{
+	background-color: #d4d1de;
+    border: 1px solid #4a4e56;
+    transition: all 0.5s ease;
+}
+
+.check-one li:nth-child(2n){
+	background: #4a4e56;
+}
+
+.check-one li{
+	float: left;
+}
+
+.check2{
+	clear: both;
+}
+
+div .check-two li:nth-last-child(2n){
+	background: #4a4e56;
+}
+
+.check-two li{
+	float: left;
+}
+
+.check3{
+	clear: both;
+}
+
+.check-tree li:nth-child(2n){
+	background: #4a4e56;
+}
+
+.check-tree li{
+	float: left;
+}
+.check4{
+	clear: both;
+}
+
+div .check-four li:nth-last-child(2n){
+	background: #4a4e56;
+}
+
+.check-four li{
+	float: left;
+}
+.check5{
+	clear: both;
+}
+
+.check-five li:nth-child(2n){
+	background: #4a4e56;
+}
+.check-five li{
+	float: left;
+}
+.check6{
+	clear: both;
+}
+
+div .check-six li:nth-last-child(2n){
+	background: #4a4e56;
+}
+.check-six li{
+	float: left;
+}
+.check7{
+	clear: both;
+}
+
+.check-seven li:nth-child(2n){
+	background: #4a4e56;
+}
+
+.check-seven li{
+	float: left;
+}
+.check8{
+	clear: both;
+}
+
+div .check-eight li:nth-last-child(2n){
+	background: #4a4e56;
+}
+
+.check-eight li{
+	float: left;
+}
+
+
